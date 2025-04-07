@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Betting Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Betting Site</h1>
+        <nav>
+            <a href="login.html">Login</a>
+            <a href="register.html">Register</a>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Upcoming Events</h2>
+        <div id="events">
+            <!-- Event listing (e.g., sports events, odds) will go here -->
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2025 Betting Site. All rights reserved.</p>
+    </footer>
+</body>
+</html>
